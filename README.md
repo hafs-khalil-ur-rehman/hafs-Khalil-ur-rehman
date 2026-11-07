@@ -7,4 +7,4 @@ Core Focus:
 ### 🌐 Connect & Research Links
 - 💼 **LinkedIn:** [hafs-khalil-ur-rehman](https://linkedin.com)
 - 🆔 **ORCID:** [0009-0000-9328-0010](https://orcid.org)
-- 🎓 **Google Scholar:** [citations?user=W1x1vzcAAAAJ&hl=en](https://scholar.google.com/)
+- 🎓 **Google Scholar:** [My Citations Profile](https://scholar.google.com/citations?hl=en&user=W1x1vzcAAAAJ&view_op=list_works&authuser=1&gmla=AN_4Zu839_z7540-gDwl-ZCdWUSrDEb5KDlvY0UYusfrvswr2KD4RO2S3adDNlqIDW2FWeWOiNlBu7Ejw5EBovrN)

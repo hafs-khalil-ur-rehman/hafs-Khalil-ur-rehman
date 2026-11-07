@@ -5,6 +5,6 @@ I am a final-year BSIT student at IIUI with 2 years of professional experience i
 Core Focus:
     Data Handling & Back-end Support | Python Programming | Data Science | AI & ML Engineering
 ### 🌐 Connect & Research Links
-- 💼 **LinkedIn:** [hafs-khalil-ur-rehman](https://linkedin.com)
-- 🆔 **ORCID:** [0009-0000-9328-0010](https://orcid.org)
+- 💼 **LinkedIn:** [hafs-khalil-ur-rehman](www.linkedin.com/in/hafs-khalil-ur-rehman)
+- 🆔 **ORCID:** [0009-0000-9328-0010](https://orcid.org/0009-0000-9328-0010)
 - 🎓 **Google Scholar:** [My Citations Profile](https://scholar.google.com/citations?hl=en&user=W1x1vzcAAAAJ&view_op=list_works&authuser=1&gmla=AN_4Zu839_z7540-gDwl-ZCdWUSrDEb5KDlvY0UYusfrvswr2KD4RO2S3adDNlqIDW2FWeWOiNlBu7Ejw5EBovrN)
